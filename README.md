@@ -30,5 +30,7 @@ O software auxilia na organização da empresa e pode ser utilizado com uma agen
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![tela1](https://user-images.githubusercontent.com/87837740/159100878-fcd92f35-e3d3-4590-93a4-4f69ce81d4e9.png)
+
+![tela2](https://user-images.githubusercontent.com/87837740/159100891-418d2b7b-8d34-4387-8ac7-8b3b283b036c.png)
 
